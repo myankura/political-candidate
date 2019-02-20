@@ -1,0 +1,17 @@
+#heading {
+    font-size: 45px;
+    line-height: 1px;
+}
+.intro {
+    font-size: 20px;
+}
+#committee_heading {
+    font-size: 20px;
+    line-height: 1em;
+}
+body {
+    background-color: cornflowerblue;
+}
+#dem {
+    color: blue;
+}
